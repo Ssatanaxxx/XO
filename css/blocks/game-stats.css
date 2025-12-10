@@ -1,0 +1,4 @@
+.game-stats {
+  display: flex;
+  gap: 25px;
+}

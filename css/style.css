@@ -1,0 +1,25 @@
+@import "./blocks/adaptive.css";
+@import "./blocks/another.css";
+
+@import "./blocks/cell.css";
+@import "./blocks/controls.css";
+
+@import "./blocks/difficulty-btn.css";
+@import "./blocks/difficulty-selector.css";
+
+@import "./blocks/encouragement.css";
+
+@import "./blocks/footer.css";
+
+@import "./blocks/game-info.css";
+@import "./blocks/game-stats.css";
+
+@import "./blocks/header.css";
+
+@import "./blocks/main.css";
+@import "./blocks/modal.css";
+
+@import "./blocks/player-info.css";
+@import "./blocks/player.css";
+
+@import "./blocks/stat.css";

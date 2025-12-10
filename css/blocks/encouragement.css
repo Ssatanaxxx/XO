@@ -1,0 +1,18 @@
+.encouragement {
+  background-color: #fff0f5;
+  padding: 15px;
+  border-radius: 15px;
+  margin: 20px 0;
+  border: 1px solid #ffd1e0;
+}
+
+.encouragement p {
+  font-style: italic;
+  color: #d47fa6;
+  margin-bottom: 10px;
+}
+
+.encouragement i {
+  color: #ffd700;
+  font-size: 1.5rem;
+}
